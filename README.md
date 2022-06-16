@@ -9,5 +9,6 @@ conda env create -f environments.yml
 
 ------------------------------------------
 ## Jupyter Notebooks
-  
+
+- 002_Number_of_atoms_rings  
 - 001_Tanimoto_similarity
