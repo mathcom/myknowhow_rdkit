@@ -10,4 +10,5 @@ dependencies:
     - pandas
     - numpy
     - networkx
+    - cairosvg
     - pip
